@@ -24,7 +24,7 @@ image_repositories = []
 parameter_overrides = "Environment=\"test\""
 
 [default.package.parameters]
-resolve_s3 = true
+
 
 [default.sync.parameters]
 watch = true
